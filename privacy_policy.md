@@ -50,6 +50,6 @@ FitMotion is not intended for users under the age of 13. We do not knowingly col
 We may update this Privacy Policy periodically. The date of the latest revision will be indicated.
 
 ### Contact Us:
-For questions or concerns about this Privacy Policy, contact us at FitMotion.dev@gmail.com .
+For questions or concerns about this Privacy Policy, contact us at fitMotion.dev@gmail.com .
 
 By using FitMotion, you consent to the terms outlined in this Privacy Policy.
