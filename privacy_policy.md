@@ -5,7 +5,7 @@ This Privacy Policy describes how we collect, use, and share your information wh
 ## Information We Collect:
 
 ### Personal Information:
-When creating an account, we may collect your name, email address, and other relevant details.
+When creating an account, we will collect your name, email address, password, gender, fitness goals, current fitness level, fitness activity, height, weight and optionally your profile picture.
 
 ### Usage Data:
 We collect information on how you interact with the App, including workout data, progress, and preferences.
@@ -14,7 +14,7 @@ We collect information on how you interact with the App, including workout data,
 FitMotion requires access to certain device permissions and may collect information about your device, including model, operating system, and unique identifiers.
 
 ### Camera Access:
-To enable features like pose detection, the App may request access to your device's camera.
+To enable features like pose detection, real-time feedback and mistake, the App will request access to your device's camera.
 
 ## How We Use Your Information:
 
